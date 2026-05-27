@@ -1,4 +1,8 @@
 # FLIPKART APPLICATION TESTING
+> This is an ongoing manual testing project for Flipkart's e-commerce 
+> platform. Modules covered so far: Authentication, Login, Product Search, 
+> Cart, and Checkout.
+
 
 ## USER STORIES
 
